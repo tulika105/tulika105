@@ -1,4 +1,5 @@
 ### Hi there, I'm Tulika! 👋
+![LH0lQIOJN1KcUN4vsmUe3](https://github.com/user-attachments/assets/5cbac378-8693-414f-877b-6fd898101f4d)
 
 Welcome to my GitHub profile! I'm excited to share my projects and contributions with you.
 
