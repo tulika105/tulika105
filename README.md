@@ -3,7 +3,7 @@
 
 - 👯 I want to collaborate on open-source projects that make a difference.
 - 🤔 I’m seeking help optimizing my code for better performance.
-- 📫 How to reach me: [Email](mailto:tulika.das105@gmail.com)
+- 📫 How to reach me: [Email](mailto:tulika.das105@gmail.com) [Linkedln](https://www.linkedin.com/in/tulika-das-7746aa291/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems.
 
