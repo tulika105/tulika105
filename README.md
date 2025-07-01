@@ -1,13 +1,13 @@
 ### Hi there, I'm Tulika! 👋
-![download](https://github.com/user-attachments/assets/29e90691-f7ee-4a88-b0c9-e1cc5ad14ba0)
+![Screenshot 2025-07-01 111759](https://github.com/user-attachments/assets/87b81076-b757-48d0-b47e-554bec6875de)
 
 ### Welcome to my GitHub profile! I'm excited to share my projects and contributions with you.
 
 - 👯 I want to collaborate on open-source projects that make a difference.
 - 🤔 I’m seeking help optimizing my code for better performance.
 - 📫 How to reach me: [Email](mailto:tulika.das105@gmail.com) , [Linkedln](https://www.linkedin.com/in/tulika-das-7746aa291/)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love exploring new technologies and applying them to solve my own problems.
+- 😄 Fun fact: I love exploring new technologies and applying them to solve my own problems.
+- 
 
 
 
