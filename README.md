@@ -19,5 +19,10 @@
 - Streamlit
 - Gradio
 
+### Blog Posts
+- [Roadmap to learn data science](https://medium.com/@tulika.das105/a-transparent-roadmap-for-learning-data-science-in-2025-761b26d56670)
+- [CNN based defect detection](https://app.readytensor.ai/publications/enhancing-casting-quality-with-cnn-based-defect-detection-systems-Sbzl6hxMlFOp)
+- [Safety Advisor for Women](https://app.readytensor.ai/publications/sheguard-an-ai-powered-personal-safety-advisor-for-women-of-all-ages-nIHwyQJQ7bIR)
+  
 Feel free to explore my repositories and blogs and get in touch if you'd like to collaborate!
 
