@@ -14,7 +14,7 @@
 - SQL
 - Pandas
 - NumPy
-- HugginFace
+- HuggingFace
 - LangChain
 - Streamlit
 - Gradio
