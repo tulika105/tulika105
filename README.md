@@ -17,7 +17,10 @@
 - Gradio
 
 ### Blog Posts
+### Medium: 
 - [Roadmap to learn data science](https://medium.com/@tulika.das105/a-transparent-roadmap-for-learning-data-science-in-2025-761b26d56670)
+  
+### Ready Tensor: 
 - [CNN based defect detection](https://app.readytensor.ai/publications/enhancing-casting-quality-with-cnn-based-defect-detection-systems-Sbzl6hxMlFOp)
 - [Safety Advisor for Women](https://app.readytensor.ai/publications/sheguard-an-ai-powered-personal-safety-advisor-for-women-of-all-ages-nIHwyQJQ7bIR)
   
