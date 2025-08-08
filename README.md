@@ -14,7 +14,7 @@ I'm a passionate developer and data enthusiast, always on the lookout for open-s
 
 ### 💻 Languages & Tools
 
-- **Python** | **SQL** | **Pandas** | **NumPy**
+- **Python** | **Pandas** | **NumPy**
 - **HuggingFace** | **LangChain** | **Streamlit** | **Gradio**
 
 ---
