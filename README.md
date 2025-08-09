@@ -50,3 +50,10 @@ Feel free to browse my repositories and blog posts. Whether you're a recruiter, 
 ---
 
 **Let’s create solutions that matter. Reach out if you’re ready to innovate!**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tulika105&label=Profile%20views&color=0e75b6&style=flat" alt="tulika105" /> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tulika105&show_icons=true&locale=en&layout=compact" alt="tulika105" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tulika105&" alt="tulika105" /></p>
+
