@@ -27,6 +27,7 @@ I'm a passionate developer and data enthusiast, always on the lookout for open-s
 **Ready Tensor**
 - [Enhancing Casting Quality with CNN-Based Defect Detection](https://app.readytensor.ai/publications/enhancing-casting-quality-with-cnn-based-defect-detection-systems-Sbzl6hxMlFOp)
 - [SheGuard: AI-Powered Personal Safety Advisor for Women](https://app.readytensor.ai/publications/sheguard-an-ai-powered-personal-safety-advisor-for-women-of-all-ages-nIHwyQJQ7bIR)
+- [CsvPal: A RAG-driven assistant for CSV analysis with automatic Python code generation](https://app.readytensor.ai/publications/csvpal-a-rag-driven-assistant-for-csv-analysis-with-automatic-python-code-generation-N3ELRq99PqoN)
 
 ---
 
