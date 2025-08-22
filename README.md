@@ -15,7 +15,9 @@ I'm a passionate developer and data enthusiast, always on the lookout for open-s
 ### 💻 Languages & Tools
 
 - **Python** | **Pandas** | **NumPy**
+- **LLMs** | **RAG** | **Faiss** | **ChromaDB**
 - **HuggingFace** | **LangChain** | **Streamlit** | **Gradio**
+  
 
 ---
 
