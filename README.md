@@ -1,55 +1,59 @@
-## 👋 Hey, I'm Tulika! Welcome to My GitHub 🚀
+# 👋 Hey, I'm Tulika! Welcome to My GitHub 🚀
 
-I'm a passionate developer and data enthusiast, always on the lookout for open-source collaborations that *truly make an impact*. If you're searching for someone who loves solving real-world problems with cutting-edge tech, you're in the right place!
 
----
+🏆 **[Distinguished Social Impact Innovation Award](https://app.readytensor.ai/publications/sheguard-an-ai-powered-personal-safety-advisor-for-women-of-all-ages-nIHwyQJQ7bIR)** — Agentic AI Innovation Challenge 2025
 
-### 🌟 What I Bring to the Table
+🎓 MS Data Science graduate with hands-on experience across two AI startups.  
 
-- 🧠 **Strong Problem-Solving Skills:** I thrive on optimizing code for peak performance and scalability.
-- 🤝 **Open-Source Collaboration:** Eager to contribute to projects that create value and drive innovation.
-- 🚀 **Tech Explorer:** Continuously learning and integrating new technologies to deliver creative solutions.
+🏥 At **Tulu Health** (Delhi), I worked on healthcare AI — multi-agent systems, Voice AI, and clinical prompt pipelines.  
 
----
+📚 At **Neuro Web Solutions** (Rajkot), I built the LLM backbone for an edtech platform assessing programming skills at scale.  
 
-### 💻 Languages & Tools
-
-- **Python** | **Pandas** | **NumPy**
-- **LLMs** | **RAG** | **Faiss** | **ChromaDB** | **LangChain** | **LangGraph**
-- **HuggingFace** | **Streamlit** | **Gradio** | **VSCode**
-  
+🤖 I build agentic AI systems — the kind that reason, route, and recover from failures.
 
 ---
 
-### ✍️ Featured Blog Posts
+## Tech Stack
 
-**Medium**
-- [Roadmap to Learn Data Science (2025)](https://medium.com/@tulika.das105/a-transparent-roadmap-for-learning-data-science-in-2025-761b26d56670)
-
-**Ready Tensor**
-- [Enhancing Casting Quality with CNN-Based Defect Detection](https://app.readytensor.ai/publications/enhancing-casting-quality-with-cnn-based-defect-detection-systems-Sbzl6hxMlFOp)
-- [SheGuard: AI-Powered Personal Safety Advisor for Women](https://app.readytensor.ai/publications/sheguard-an-ai-powered-personal-safety-advisor-for-women-of-all-ages-nIHwyQJQ7bIR)
-- [CsvPal: A RAG-driven assistant for CSV analysis with automatic Python code generation](https://app.readytensor.ai/publications/csvpal-a-rag-driven-assistant-for-csv-analysis-with-automatic-python-code-generation-N3ELRq99PqoN)
-
----
-
-### 📬 Connect with Me
-
-- **Email:** [tulika.das105@gmail.com](mailto:tulika.das105@gmail.com)
-- **LinkedIn:** [Tulika Das](https://www.linkedin.com/in/tulika-das-7746aa291/)
-
----
-
-### 😄 Fun Fact
-
-I love exploring emerging technologies and using them to tackle my own challenges—every project is an adventure!
-
----
-
-### 🚀 Explore My Work
-
-Feel free to browse my repositories and blog posts. Whether you're a recruiter, fellow developer, or potential collaborator, I'd love to connect and explore ways we can build something amazing together!
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
 
 ---
 
-**Let’s create solutions that matter. Reach out if you’re ready to innovate!**
+## Featured Projects
+
+🔍 **[ReAct Research Agent](https://github.com/tulika105/Research-Agent)**
+- Autonomous research agent built with LangGraph, Groq, and DuckDuckGo
+- Separate models for reasoning and writing — one detects search gaps, one formats the report
+- Runs entirely from CLI, no UI wrapper
+
+🌸 **[The Unseen Builder](https://unseenbuilder.lovable.app/)**
+- Three-agent pipeline built on Lovable
+- Takes any woman's everyday life and surfaces the real technical skills behind what she already does
+- Built and deployed for IWD 2026 SheBuilds event
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tulika-das-7746aa291/" target="_blank">LinkedIn</a> ·
+  <a href="mailto:tulika.das105@gmail.com">tulika.das105@gmail.com</a>
+</p>
