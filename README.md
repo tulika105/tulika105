@@ -13,7 +13,7 @@
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -37,7 +37,7 @@
 
 ---
 
-## Featured Projects
+# Featured Projects
 
 🔍 **[ReAct Research Agent](https://github.com/tulika105/Research-Agent)**
 - Autonomous research agent built with LangGraph, Groq, and DuckDuckGo
@@ -51,7 +51,7 @@
 
 ---
 
-## Connect
+# Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tulika-das-7746aa291/" target="_blank">LinkedIn</a> ·
