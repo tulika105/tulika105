@@ -39,6 +39,11 @@
 
 # Featured Projects
 
+🤖 **[Multi-Agent Complaint System](https://github.com/tulika105/Multi-Agent-Complaint-System)**
+- A langGraph-based multi-agent system which automates customer support by classifying queries and resolving complaints using LLMs
+- Implements intelligent routing + severity detection + Human-in-the-Loop (HITL) for handling critical issues
+- Generates automated, context-aware email responses with full session logging and memory for traceability
+
 🔍 **[ReAct Research Agent](https://github.com/tulika105/Research-Agent)**
 - Autonomous research agent built with LangGraph, Groq, and DuckDuckGo
 - Separate models for reasoning and writing — one detects search gaps, one formats the report
