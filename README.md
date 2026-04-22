@@ -47,7 +47,7 @@
 🔍 **[ReAct Research Agent](https://github.com/tulika105/Research-Agent)**
 - Autonomous research agent built with LangGraph, Groq, and DuckDuckGo
 - Separate models for reasoning and writing — one detects search gaps, one formats the report
-- Runs entirely from CLI, no UI wrapper
+- Runs entirely from CLI as well as from UI
 
 🌸 **[The Unseen Builder](https://unseenbuilder.lovable.app/)**
 - Three-agent pipeline built on Lovable
