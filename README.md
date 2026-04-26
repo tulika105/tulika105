@@ -37,22 +37,23 @@
 
 ---
 
-# Featured Projects
+# Top Projects
 
-🤖 **[Multi-Agent Complaint System](https://github.com/tulika105/Multi-Agent-Complaint-System)**
-- A langGraph-based multi-agent system which automates customer support by classifying queries and resolving complaints using LLMs
-- Implements intelligent routing + severity detection + Human-in-the-Loop (HITL) for handling critical issues
-- Generates automated, context-aware email responses with full session logging and memory for traceability
+| Project | Description | Link |
+|---|---|---|
+| SheGuard AI | 🏆 Distinguished Social Impact Award — AI-powered personal safety advisor for women, using Llama 3.3-70b to deliver age-aware safety tips, self-defense guidance, and curated resources. Deployed on Hugging Face Spaces. | [Live Demo](https://huggingface.co/spaces/Tulika2000/SheGuard-AI) |
+| Multi-Agent Complaint System | LangGraph-based system that automates customer support with intelligent routing, severity detection, and Human-in-the-Loop (HITL) for critical issues. | [GitHub](https://github.com/tulika105/Multi-Agent-Complaint-System) |
+| ReAct Research Agent | Autonomous research agent built with LangGraph and Groq. Uses separate models for reasoning and report writing. Runs from both CLI and UI. | [Live Demo](https://huggingface.co/spaces/Tulika2000/Research-Agent) |
 
-🔍 **[ReAct Research Agent](https://github.com/tulika105/Research-Agent)**
-- Autonomous research agent built with LangGraph, Groq, and DuckDuckGo
-- Separate models for reasoning and writing — one detects search gaps, one formats the report
-- Runs entirely from CLI as well as from UI
+---
 
-🌸 **[The Unseen Builder](https://unseenbuilder.lovable.app/)**
-- Three-agent pipeline built on Lovable
-- Takes any woman's everyday life and surfaces the real technical skills behind what she already does
-- Built and deployed for IWD 2026 SheBuilds event
+# Side Projects & Experiments
+
+| Project | Description | Link |
+|---|---|---|
+| The Unseen Builder | Three-agent pipeline (vibe-coded on Lovable) that surfaces the real technical skills behind women's everyday tasks. Built for IWD 2026 SheBuilds. | [Live Demo](https://unseenbuilder.lovable.app/) |
+| Claude Opus Debug Assistant | CLI tool powered by Claude Opus 4.6 with adaptive thinking. Describe a bug in plain English, get back root causes, reproduction steps, fixes, and prevention. | [GitHub](https://github.com/tulika105/Claude-Opus-Debug-Assistant) |
+| Git Learning CLI | Interactive Git tutor built with Gemini 2.5 Flash. Ask any Git question in plain language and practice real-world branching workflows from the terminal. | [GitHub](https://github.com/tulika105/Git-Learning) |
 
 ---
 
