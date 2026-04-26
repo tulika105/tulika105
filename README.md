@@ -54,6 +54,7 @@
 | The Unseen Builder | Three-agent pipeline (vibe-coded on Lovable) that surfaces the real technical skills behind women's everyday tasks. Built for IWD 2026 SheBuilds. | [Live Demo](https://unseenbuilder.lovable.app/) |
 | Claude Opus Debug Assistant | CLI tool powered by Claude Opus 4.6 with adaptive thinking. Describe a bug in plain English, get back root causes, reproduction steps, fixes, and prevention. | [GitHub](https://github.com/tulika105/Claude-Opus-Debug-Assistant) |
 | Git Learning CLI | Interactive Git tutor built with Gemini 2.5 Flash. Ask any Git question in plain language and practice real-world branching workflows from the terminal. | [GitHub](https://github.com/tulika105/Git-Learning) |
+| LangChain Memory System | Demonstrates short-term (in-memory) vs long-term (JSON-based) memory in LangChain, with daily reminder automation via GitHub Actions. | [GitHub](https://github.com/tulika105/LangChain-Memory-System) |
 
 ---
 
