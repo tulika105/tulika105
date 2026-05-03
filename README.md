@@ -1,8 +1,5 @@
 # 👋 Hey, I'm Tulika! Welcome to My GitHub 🚀
 
-
-🏆 **[Distinguished Social Impact Innovation Award](https://app.readytensor.ai/publications/sheguard-an-ai-powered-personal-safety-advisor-for-women-of-all-ages-nIHwyQJQ7bIR)** — Agentic AI Innovation Challenge 2025
-
 🎓 MS Data Science graduate with hands-on experience across two AI startups.  
 
 🏥 At **Tulu Health** (Delhi), I worked on healthcare AI — multi-agent systems, Voice AI, and clinical prompt pipelines.  
@@ -10,6 +7,15 @@
 📚 At **Neuro Web Solutions** (Rajkot), I built the LLM backbone for an edtech platform assessing programming skills at scale.  
 
 🤖 I build agentic AI systems — the kind that reason, route, and recover from failures.
+
+---
+
+# Competitions & Hackathons
+
+| Project | Achievement | Link |
+|---|---|---|
+| SheGuard AI |🏆 Distinguished Social Impact Innovation Award, Agentic AI Innovation Challenge 2025. Selected 1 of 38 from 671+ submissions. Published on ReadyTensor. | [Ready Tensor](https://app.readytensor.ai/publications/sheguard-an-ai-powered-personal-safety-advisor-for-women-of-all-ages-nIHwyQJQ7bIR) |
+| HackerRank Orchestrate |🏆 Completed first 24-hour hackathon. Built a hybrid RAG support triage agent with FAISS + TF-IDF, RRF fusion, company metadata filtering, and automatic escalation for high-risk tickets. | [GitHub](https://github.com/tulika105/HackerRank-Orchestrate-Hackathon) |
 
 ---
 
@@ -43,7 +49,7 @@
 
 | Project | Description | Link |
 |---|---|---|
-| SheGuard AI | 🏆 Distinguished Social Impact Award — AI-powered personal safety advisor for women, using Llama 3.3-70b to deliver age-aware safety tips, self-defense guidance, and curated resources. Deployed on Hugging Face Spaces. | [Live Demo](https://huggingface.co/spaces/Tulika2000/SheGuard-AI) |
+| SheGuard AI | AI-powered personal safety advisor for women, using Llama 3.3-70b to deliver age-aware safety tips, self-defense guidance, and curated resources. Deployed on Hugging Face Spaces. | [Live Demo](https://huggingface.co/spaces/Tulika2000/SheGuard-AI) |
 | Multi-Agent Complaint System | LangGraph-based system that automates customer support with intelligent routing, severity detection, and Human-in-the-Loop (HITL) for critical issues. | [GitHub](https://github.com/tulika105/Multi-Agent-Complaint-System) |
 | ReAct Research Agent | Autonomous research agent built with LangGraph and Groq. Uses separate models for reasoning and report writing. Runs from both CLI and UI. | [Live Demo](https://huggingface.co/spaces/Tulika2000/Research-Agent) |
 
@@ -53,6 +59,7 @@
 
 | Project | Description | Link |
 |---|---|---|
+| HackerRank Orchestrate Hackathon | Hybrid RAG support triage agent built in 24 hours. FAISS + TF-IDF with RRF fusion, company metadata filtering, structured JSON output, and automatic escalation for high-risk tickets. | [GitHub](https://github.com/tulika105/HackerRank-Orchestrate-Hackathon) |
 | The Unseen Builder | Three-agent pipeline (vibe-coded on Lovable) that surfaces the real technical skills behind women's everyday tasks. Built for IWD 2026 SheBuilds. | [Live Demo](https://unseenbuilder.lovable.app/) |
 | Claude Opus Debug Assistant | CLI tool powered by Claude Opus 4.6 with adaptive thinking. Describe a bug in plain English, get back root causes, reproduction steps, fixes, and prevention. | [GitHub](https://github.com/tulika105/Claude-Opus-Debug-Assistant) |
 | Git Learning CLI | Interactive Git tutor built with Gemini 2.5 Flash. Ask any Git question in plain language and practice real-world branching workflows from the terminal. | [GitHub](https://github.com/tulika105/Git-Learning) |
