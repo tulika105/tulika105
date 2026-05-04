@@ -6,7 +6,7 @@
 
 📚 At **Neuro Web Solutions** (Rajkot), I built the LLM backbone for an edtech platform assessing programming skills at scale.  
 
-🤖 I build agentic AI systems — the kind that reason, route, and recover from failures.
+🤖 I design agentic AI systems that can reason, route decisions, and operate autonomously across complex workflows.
 
 ---
 
