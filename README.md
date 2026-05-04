@@ -59,7 +59,6 @@
 
 | Project | Description | Link |
 |---|---|---|
-| HackerRank Orchestrate Hackathon | Hybrid RAG support triage agent built in 24 hours. FAISS + TF-IDF with RRF fusion, company metadata filtering, structured JSON output, and automatic escalation for high-risk tickets. | [GitHub](https://github.com/tulika105/HackerRank-Orchestrate-Hackathon) |
 | The Unseen Builder | Three-agent pipeline (vibe-coded on Lovable) that surfaces the real technical skills behind women's everyday tasks. Built for IWD 2026 SheBuilds. | [Live Demo](https://unseenbuilder.lovable.app/) |
 | Claude Opus Debug Assistant | CLI tool powered by Claude Opus 4.6 with adaptive thinking. Describe a bug in plain English, get back root causes, reproduction steps, fixes, and prevention. | [GitHub](https://github.com/tulika105/Claude-Opus-Debug-Assistant) |
 | Git Learning CLI | Interactive Git tutor built with Gemini 2.5 Flash. Ask any Git question in plain language and practice real-world branching workflows from the terminal. | [GitHub](https://github.com/tulika105/Git-Learning) |
