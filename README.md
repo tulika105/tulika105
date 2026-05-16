@@ -15,7 +15,7 @@
 | Project | Achievement | Link |
 |---|---|---|
 | SheGuard AI |🏆 Distinguished Social Impact Innovation Award, Agentic AI Innovation Challenge 2025. Selected 1 of 38 from 671+ submissions. Published on ReadyTensor. | [Ready Tensor](https://app.readytensor.ai/publications/sheguard-an-ai-powered-personal-safety-advisor-for-women-of-all-ages-nIHwyQJQ7bIR) |
-| Multi-Domain Support Triage Agent |🏆 Completed first 24-hour hackathon organised by HackerRank. Built a hybrid RAG support triage agent with FAISS + TF-IDF, RRF fusion, company metadata filtering, and automatic escalation for high-risk tickets. | [GitHub](https://github.com/tulika105/HackerRank-Orchestrate-Hackathon) |
+| Multi-Domain Support Triage Agent |🏆 Completed first 24-hour hackathon organised by HackerRank. Ranked 529 out of 1,349 participants. Built a hybrid RAG support triage agent with FAISS + TF-IDF, RRF fusion, company metadata filtering, and automatic escalation for high-risk tickets. | [GitHub](https://github.com/tulika105/HackerRank-Orchestrate-Hackathon) |
 
 ---
 
