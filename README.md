@@ -8,6 +8,8 @@
 
 🤖 I design agentic AI systems that can reason, route decisions, and operate autonomously across complex workflows.
 
+📍 Currently open to Junior AI Engineer / Agentic AI Engineer roles. 
+
 ---
 
 # Competitions & Hackathons
