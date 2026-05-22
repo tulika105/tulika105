@@ -1,4 +1,10 @@
-# 👋 Hey, I'm Tulika! Welcome to My GitHub 🚀
+<div align="center">
+
+# Hi, I'm Tulika👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=1B6EF3&center=true&vCenter=true&width=700&lines=Building+AI+systems+that+reason+%26+act)](https://git.io/typing-svg)
+
+</div>
 
 🎓 MS Data Science graduate with hands-on experience across two AI startups.  
 
@@ -23,26 +29,30 @@
 
 # Tech Stack
 
+**🤖 Agentic AI & Orchestration**
+ 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-4B8BBE?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+**🛠️ Backend, Data & ML**
+ 
+[![skillicons](https://skillicons.dev/icons?i=python,fastapi,tensorflow,sklearn,git,github&perline=10)](https://skillicons.dev)
+ 
+<p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ---
@@ -71,6 +81,10 @@
 # Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tulika-das-7746aa291/" target="_blank">LinkedIn</a> ·
-  <a href="mailto:tulika.das105@gmail.com">tulika.das105@gmail.com</a>
+  <a href="https://www.linkedin.com/in/tulika-das-7746aa291/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tulika.das105@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
