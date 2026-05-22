@@ -64,6 +64,8 @@
 | SheGuard AI | AI-powered personal safety advisor for women, using Llama 3.3-70b to deliver age-aware safety tips, self-defense guidance, and curated resources. Deployed on Hugging Face Spaces. | [Live Demo](https://huggingface.co/spaces/Tulika2000/SheGuard-AI) |
 | Multi-Agent Complaint System | LangGraph-based system that automates customer support with intelligent routing, severity detection, and Human-in-the-Loop (HITL) for critical issues. | [GitHub](https://github.com/tulika105/Multi-Agent-Complaint-System) |
 | ReAct Research Agent | Autonomous research agent built with LangGraph and Groq. Uses separate models for reasoning and report writing. Runs from both CLI and UI. | [Live Demo](https://huggingface.co/spaces/Tulika2000/Research-Agent) |
+| LLM Gateway | Production-style LLM backend with FastAPI, API key auth, per-user rate limiting, token-level cost accounting, primary/fallback model strategy, and layered service architecture. | [GitHub](https://github.com/tulika105/LLM-System-Design) |
+ 
 
 ---
 
