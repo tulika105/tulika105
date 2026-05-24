@@ -65,6 +65,7 @@
 | Multi-Agent Complaint System | LangGraph-based system that automates customer support with intelligent routing, severity detection, and Human-in-the-Loop (HITL) for critical issues. | [GitHub](https://github.com/tulika105/Multi-Agent-Complaint-System) |
 | ReAct Research Agent | Autonomous research agent built with LangGraph and Groq. Uses separate models for reasoning and report writing. Runs from both CLI and UI. | [Live Demo](https://huggingface.co/spaces/Tulika2000/Research-Agent) |
 | LLM Gateway | Production-style LLM backend with FastAPI, API key auth, per-user rate limiting, token-level cost accounting, primary/fallback model strategy, and layered service architecture. | [GitHub](https://github.com/tulika105/LLM-System-Design) |
+| Evaluating RAG with RAGAS | Component-level evaluation of a RAG pipeline using RAGAS — measuring context precision, context recall, faithfulness, and answer correctness. Achieved perfect retrieval precision across all test questions. | [GitHub](https://github.com/tulika105/Evaluating-RAG-with-RAGAS) |
  
 
 ---
