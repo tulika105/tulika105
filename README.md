@@ -6,15 +6,17 @@
 
 </div>
 
-🎓 MS Data Science graduate with hands-on experience across two AI startups.  
+🎓 MSc in Data Science. Spent the last year across two AI startups building things that actually shipped.
 
-🏥 At **Tulu Health** (Delhi), I worked on healthcare AI — multi-agent systems, Voice AI, and clinical prompt pipelines.  
+🏥 At Tulu Health, I worked on healthcare AI: multi-agent systems, Voice AI pipelines, and clinical LLM prompt tuning.
 
-📚 At **Neuro Web Solutions** (Rajkot), I built the LLM backbone for an edtech platform assessing programming skills at scale.  
+📚 At Neuro Web Solutions, I built the LLM backend for an edtech platform serving 1,000+ students.
 
-🤖 I design agentic AI systems that can reason, route decisions, and operate autonomously across complex workflows.
+🤖 I work on agentic systems that route decisions, call tools, and handle multi-step workflows without falling apart.
 
-📍 Currently open to Junior AI Engineer / Agentic AI Engineer roles. 
+🔭 Currently going deep on multi-agent orchestration: how agents coordinate, hand off context, and recover when things break.
+
+📍 Open to Junior AI Engineer / Agentic AI Engineer roles.
 
 ---
 
