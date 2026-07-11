@@ -16,8 +16,6 @@
 
 🔭 Currently going deep on multi-agent orchestration: how agents coordinate, hand off context, and recover when things break.
 
-📍 Open to Junior AI Engineer / Agentic AI Engineer roles.
-
 ---
 
 # Competitions & Hackathons
